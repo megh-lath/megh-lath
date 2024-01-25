@@ -24,3 +24,6 @@ Feel free to explore the projects I've been working on, and don't hesitate to re
 ## 🌟 Thanks for Visiting
 Thanks for stopping by! I'm always open to collaboration and eager to contribute to the vibrant developer community. Let's build awesome things together! 🚀
 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=megh-lath)](https://github.com/anuraghazra/github-readme-stats)
+
