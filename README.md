@@ -25,5 +25,21 @@ Feel free to explore the projects I've been working on, and don't hesitate to re
 Thanks for stopping by! I'm always open to collaboration and eager to contribute to the vibrant developer community. Let's build awesome things together! 🚀
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=megh-lath)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br/>
+<h2> Github Statistics 📈</h2>
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=megh-lath&theme=dark&hide_border=true&show_icons=true" />
+</a>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megh-lath&layout=compact&theme=dark&hide_border=true&show_icons=true" />
+</a>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=megh-lath&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&show_icons=true" />
+</a><br><br>
+
 
